@@ -1,0 +1,9 @@
+# Package for connect api
+fastapi
+uvicorn
+psycopg2-binary
+psycopg2
+SQLAlchemy
+mariadb
+requests-ntlm
+requests
