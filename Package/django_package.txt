@@ -1,0 +1,7 @@
+# Django important paskage
+Django
+djangorestframework
+markdown
+django-filter
+pandas
+numpy
