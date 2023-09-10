@@ -1,0 +1,9 @@
+# Package for Fastapi
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+requests
+requests-ntlm
+aiohttp
+httpx
