@@ -6,3 +6,9 @@ matplotlib
 seaborn
 dash
 plotly
+SQLAlchemy
+pydantic
+requests
+requests-ntlm
+aiohttp
+httpx
