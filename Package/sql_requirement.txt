@@ -1,0 +1,6 @@
+# Package for SQL
+SQLAlchemy
+psycopg2
+mariadb
+pymongo
+mysql-connector-python
