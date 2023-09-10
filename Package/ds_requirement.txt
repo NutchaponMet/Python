@@ -1,0 +1,10 @@
+# data science requirement
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+plotly
+dash
