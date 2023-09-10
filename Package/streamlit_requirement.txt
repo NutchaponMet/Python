@@ -1,0 +1,8 @@
+# Package for streamlit project
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+dash
+plotly
