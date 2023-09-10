@@ -1,0 +1,9 @@
+# Package for Flack micro-webservice
+Flask
+flask-restful
+SQLAlchemy
+pydantic
+requests
+requests-ntlm
+aiohttp
+httpx
