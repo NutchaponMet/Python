@@ -8,4 +8,3 @@ mariadb
 requests-ntlm
 requests
 htppx
-aiohttp
