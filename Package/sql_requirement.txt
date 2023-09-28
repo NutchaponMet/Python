@@ -4,3 +4,4 @@ psycopg2
 mariadb
 pymongo
 mysql-connector-python
+pydantic
