@@ -10,5 +10,4 @@ SQLAlchemy
 pydantic
 requests
 requests-ntlm
-aiohttp
 httpx
