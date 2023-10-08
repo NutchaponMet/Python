@@ -2,5 +2,8 @@
 pandas
 numpy
 requests
-urllib3
 pipenv
+jupyterlab
+matplotlib
+seaborn
+scipy
