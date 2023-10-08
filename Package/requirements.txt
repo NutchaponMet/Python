@@ -1,0 +1,6 @@
+# Base package
+pandas
+numpy
+requests
+urllib3
+pipenv
