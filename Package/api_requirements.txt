@@ -2,7 +2,6 @@
 fastapi
 uvicorn
 psycopg2-binary
-psycopg2
 SQLAlchemy
 mariadb
 requests-ntlm
