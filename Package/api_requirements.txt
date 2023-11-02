@@ -6,4 +6,3 @@ SQLAlchemy
 mariadb
 requests-ntlm
 requests
-htppx
