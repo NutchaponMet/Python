@@ -1,6 +1,6 @@
 # Package for connect api
 fastapi
-uvicorn
+uvicorn[standard]
 psycopg2-binary
 SQLAlchemy
 mariadb
